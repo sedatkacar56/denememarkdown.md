@@ -1,7 +1,7 @@
-#Bismillahirrahmanirrahim
-##Lets start
+# Bismillahirrahmanirrahim
+## Lets start
 
-##Authors: Sedat Kacar
+## Authors: Sedat Kacar
 ### * Corresponding Author
 
 ##### Setup the directory for data analysis in R (version 4.0.4)
